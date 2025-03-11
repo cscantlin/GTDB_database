@@ -1,0 +1,4 @@
+wget https://data.gtdb.ecogenomic.org/releases/latest/gtdb_proteins_aa_rep.tar.gz
+git add .
+git commit -m "Added GTDB database"
+git push origin main
